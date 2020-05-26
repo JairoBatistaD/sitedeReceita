@@ -1,0 +1,45 @@
+body {
+ background-image: url(https://wallpapercave.com/wp/wp3820394.jpg);
+ font-family: arial
+ }
+ footer{
+ 	background-color: black;
+ 	color:white;
+ 	text-align: center;
+ }
+ #divisa{
+ 	background-color: white;
+ 	height: 10px;
+ 	border: 2px solid red;
+ 	
+ 	box-shadow: 10px 10px 10px 10px red;}
+ 
+ #divisa2{
+
+margin-top: 10px;
+ 	background-color: white;
+ 	background-image: url(logo.png)
+ 	width: 300px; 
+ 	height: 300px;
+ 	padding: 70px;
+ 	text-align: center;
+ 	border:2px solid black;
+ 	border-radius: 10px;
+-moz-box-shadow: 3px 3px 4px #000;
+-webkit-box-shadow: 3px 3px 4px #000;
+box-shadow: 3px 3px 4px #000;
+
+ }
+ .carousel-item {
+ 	margin-top: 10px;
+ width: 300px; 
+ 	height: 300px;
+ 	 border: 10px solid black;
+ 	 border-radius: 10px;
+-moz-box-shadow: 3px 3px 4px #000;
+-webkit-box-shadow: 3px 3px 4px #000;
+box-shadow: 10px 10px 10px #000 }
+
+.btn .btn-outline-success{
+	border:2px solid black;
+}
